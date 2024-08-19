@@ -1,4 +1,4 @@
-# medicine-recommendation-system
+# Medicine-recommendation-system
 
 **Overview**
 
